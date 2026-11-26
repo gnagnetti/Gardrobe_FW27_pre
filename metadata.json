@@ -1,0 +1,8 @@
+{
+  "name": "Garderobe — Look Completion & Order Analysis",
+  "description": "Cross-reference your collection index with a buyer order to reveal complete looks, missing pieces and the garderobes that sell.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
